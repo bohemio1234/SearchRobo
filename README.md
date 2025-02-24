@@ -6,9 +6,11 @@
 
 **SearchRobo**は、ユーザーが入力した名前に基づいてロボットのデータを検索するReact Webアプリケーションです。
 
+
 ## 🛠 Tech Stack (기술 스택 / 技術スタック)
 - **Frontend:** React, Bootstrap
 - **API:** JSONPlaceholder (Mock Data)
+
 
 ## 🚀 Installation & Usage (설치 및 실행 방법 / インストールと実行方法)
 ```sh
@@ -17,6 +19,7 @@ cd SearchRobo
 npm install
 npm start
 ```
+
 
 ## 📌 Key Features (주요 기능 / 主な機能)
 ✅ Filters robot data based on user input 🔍  
@@ -30,6 +33,7 @@ npm start
 ✅ ユーザー入力に基づくロボットデータのフィルタリング 🔍  
 ✅ JSONPlaceholder APIを使用したユーザー情報のロード 🌍  
 ✅ Bootstrapを活用したレスポンシブUI 🎨
+
 
 ## 🔍 ETC (기타 학습 내용 / その他の学習内容)
 
