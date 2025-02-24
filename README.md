@@ -12,6 +12,7 @@
 
 - **Frontend:** React, Bootstrap
 - **API:** JSONPlaceholder (Mock Data)
+- **Deployment:** Vercel
 
 ---
 
@@ -55,7 +56,7 @@ npm start
 
 - `.gitignore`을 활용하여 **불필요한 파일이 GitHub에 올라가지 않도록 설정하는 방법**을 익혔다.
 
-- **README.md 작성법 및 Markdown 문법**을 익혀, 프로젝트 소개서를 깔끔하게 정리하는 경험을 했다.
+- **README.md 작성법 및 Markdown 문법**을 익혀 깔끔하게 정리하는 방법, Vercel을 통해 쉽게 배포가 가능하다는 것도 배웠다.
 
 - **Shout out to Andrei!** 🎉
 
