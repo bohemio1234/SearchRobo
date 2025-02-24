@@ -1,10 +1,10 @@
 # 🤖 SearchRobo
 
-🚀 **SearchRobo** is a React web application that searches robot data based on user-entered names.
+**SearchRobo** is a React web application that searches robot data based on user-entered names.
 
-🚀 **SearchRobo**는 사용자가 입력한 이름을 기반으로 로봇 데이터를 검색하는 React 웹 애플리케이션입니다。
+**SearchRobo**는 사용자가 입력한 이름을 기반으로 로봇 데이터를 검색하는 React 웹 애플리케이션입니다。
 
-🚀 **SearchRobo**は、ユーザーが入力した名前に基づいてロボットのデータを検索するReact Webアプリケーションです。
+**SearchRobo**は、ユーザーが入力した名前に基づいてロボットのデータを検索するReact Webアプリケーションです。
 
 ## 🛠 Tech Stack (기술 스택 / 技術スタック)
 - **Frontend:** React, Bootstrap
