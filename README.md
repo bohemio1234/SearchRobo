@@ -31,11 +31,17 @@ npm start
 ✅ JSONPlaceholder APIを使用したユーザー情報のロード 🌍  
 ✅ Bootstrapを活用したレスポンシブUI 🎨
 
-- ## 🔍 ETC
+## 🔍 ETC (기타 학습 내용 / その他の学習内容)
 
-## 📝 Author (작성자 / 作成者)
-👨‍💻 **bohemio1234**  
-📧 Email: bohemio1234@naver.com  
+- HTML, CSS, Bootstrap, JavaScript, NPM, JSX, React, API 호출(`fetch`)의 기본 개념을 학습했다.
+- 초기에는 클래스형 컴포넌트로 코드를 작성했지만, 함수형 컴포넌트와 Hooks가 더 많이 쓰인다는 것을 알고 함수형 컴포넌트로 리팩토링했다.
+  - `componentDidMount`, `constructor()`, `super()`, `this` 같은 개념이 사라지면서 코드가 훨씬 간결하고 이해하기 쉬워졌다.
+  - 하지만, 클래스 컴포넌트에서 배운 개념들이 함수형에서도 적용된다는 점에서 학습에 큰 도움이 되었다.
+- 프로젝트 폴더 구조 정리 방법과 Git 기본 개념 및 Workflow(`git init`, `git remote add origin` 등)를 학습했다.
+- `.gitignore`을 활용하여 불필요한 파일이 GitHub에 올라가지 않도록 설정하는 방법을 익혔다.
+- README.md 작성법 및 Markdown 문법을 익혀, 프로젝트 소개서를 깔끔하게 정리하는 경험을 했다.
+- shout out to Andrei !
+
 
 ## 🛡 License (라이선스 / ライセンス)
 MIT License © [bohemio1234](https://github.com/bohemio1234)
