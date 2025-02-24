@@ -1,71 +1,41 @@
-# Getting Started with Create React App
+# 🤖 SearchRobo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 **SearchRobo** is a React web application that searches robot data based on user-entered names.
 
-## Available Scripts
+🚀 **SearchRobo**는 사용자가 입력한 이름을 기반으로 로봇 데이터를 검색하는 React 웹 애플리케이션입니다。
 
-In the project directory, you can run:
+🚀 **SearchRobo**は、ユーザーが入力した名前に基づいてロボットのデータを検索するReact Webアプリケーションです。
 
-### `npm start`
+## 🛠 Tech Stack (기술 스택 / 技術スタック)
+- **Frontend:** React, Bootstrap
+- **API:** JSONPlaceholder (Mock Data)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Installation & Usage (설치 및 실행 방법 / インストールと実行方法)
+```sh
+git clone https://github.com/bohemio1234/SearchRobo.git
+cd SearchRobo
+npm install
+npm start
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📌 Key Features (주요 기능 / 主な機能)
+✅ Filters robot data based on user input 🔍  
+✅ Loads user information using the JSONPlaceholder API 🌍  
+✅ Responsive UI with Bootstrap 🎨
 
-### `npm test`
+✅ 사용자 입력을 기반으로 로봇 데이터 필터링 🔍  
+✅ JSONPlaceholder API를 사용한 사용자 정보 로드 🌍  
+✅ Bootstrap을 활용한 반응형 UI 🎨
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✅ ユーザー入力に基づくロボットデータのフィルタリング 🔍  
+✅ JSONPlaceholder APIを使用したユーザー情報のロード 🌍  
+✅ Bootstrapを活用したレスポンシブUI 🎨
 
-### `npm run build`
+- ## 🔍 ETC
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📝 Author (작성자 / 作成者)
+👨‍💻 **bohemio1234**  
+📧 Email: bohemio1234@naver.com  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# SearchRobo
+## 🛡 License (라이선스 / ライセンス)
+MIT License © [bohemio1234](https://github.com/bohemio1234)
